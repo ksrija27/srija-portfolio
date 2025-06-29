@@ -71,6 +71,8 @@ A modern, fully responsive **portfolio website** built using **HTML**, **CSS**, 
 
 ## OUTPUT
 
+![Image](https://github.com/user-attachments/assets/f435d661-eeaf-4b34-9318-76c3a857c428)
+
 
 ## 🔗 Live Demo
 
